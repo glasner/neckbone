@@ -1,0 +1,4 @@
+dependencies:
+  - pretty-date.js
+  - form2object.js
+public: ../public/
